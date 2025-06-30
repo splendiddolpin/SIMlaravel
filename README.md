@@ -28,18 +28,18 @@ password: ahmad123
 ```
 
 ## ScreenShots Admin
-<img src="Screenshots/lms (20).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (21).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (22).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (23).png" width="100%" /><br /> <br />
+<img src="Screenshots/lms (20).png" width="80%" /><br /> <br />
+<img src="Screenshots/lms (21).png" width="80%" /><br /> <br />
+<img src="Screenshots/lms (22).png" width="80%" /><br /> <br />
+<img src="Screenshots/lms (23).png" width="80%" /><br /> <br />
 
 ## ScreenShots Guest
-<img src="Screenshots/lms (17).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (18).png" width="100%" /><br /> <br />
+<img src="Screenshots/lms (17).png" width="80%" /><br /> <br />
+<img src="Screenshots/lms (18).png" width="80%" /><br /> <br />
 
 ## Screenshots Siswa
-<img src="Screenshots/lms (14).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (15).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (16).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (19).png" width="100%" /><br /> <br />
+<img src="Screenshots/lms (14).png" width="80%" /><br /> <br />
+<img src="Screenshots/lms (15).png" width="80%" /><br /> <br />
+<img src="Screenshots/lms (16).png" width="80%" /><br /> <br />
+<img src="Screenshots/lms (19).png" width="80%" /><br /> <br />
 
