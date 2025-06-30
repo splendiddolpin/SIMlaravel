@@ -24,7 +24,7 @@ cd Laravel-libraray-management-system
 ```
 start server
 ```
-npn run dev
+npm run dev
 php artisan serve
 ```
 Admin credentails
