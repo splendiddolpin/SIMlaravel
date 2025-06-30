@@ -8,24 +8,15 @@ clone the repo
 git clone https://github.com/splendiddolpin/SIMlaravel.git
 ```
 Import Database Manually
-Open phpMyAdmin
-Go to http://localhost/phpmyadmin or your server's phpMyAdmin URL.
+Follow these steps to import a `.sql` database file into phpMyAdmin:
 
-Create a New Database
-Click on "New", enter database name libs, then click "Create".
-
-Select the Database
-Click the database name from the sidebar to open it.
-
-Import the SQL File
-
-Click the "Import" tab at the top.
-
-Click "Choose File" and select libs.sql file in database folder.
-
-Make sure the format is set to SQL.
-
-Click "Go" to start importing.
+1. Open **phpMyAdmin** in your browser.
+2. create database name libs
+3. Click the **Import** tab at the top menu.
+4. Click **Choose File**, then select your `libs.sql` file in database folder.
+5. Make sure the format is set to **SQL**.
+6. Click the **Go** button to start the import process.
+7. Wait for the success message to confirm the import is complete.
 
 change current directory
 ```
