@@ -5,11 +5,9 @@
 ## Quick Start 
 clone the repo
 ```
-    git clone https://github.com/tauseedzaman/Laravel-libraray-management-system
+git clone https://github.com/splendiddolpin/SIMlaravel.git
 ```
-
 change current directory
-
 ```
 cd Laravel-libraray-management-system
 ```
@@ -22,7 +20,6 @@ credentails
 username: kiki
 password: kiki123
 ```
-# That's all 🎊🎉 
 
 ## ScreenShots
 <img src="Screenshots/lms (1).png" width="100%" /><br /> <br />
