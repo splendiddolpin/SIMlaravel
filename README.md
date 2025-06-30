@@ -7,6 +7,26 @@ clone the repo
 ```
 git clone https://github.com/splendiddolpin/SIMlaravel.git
 ```
+Import Database Manually
+Open phpMyAdmin
+Go to http://localhost/phpmyadmin or your server's phpMyAdmin URL.
+
+Create a New Database
+Click on "New", enter database name libs, then click "Create".
+
+Select the Database
+Click the database name from the sidebar to open it.
+
+Import the SQL File
+
+Click the "Import" tab at the top.
+
+Click "Choose File" and select libs.sql file in database folder.
+
+Make sure the format is set to SQL.
+
+Click "Go" to start importing.
+
 change current directory
 ```
 cd Laravel-libraray-management-system
