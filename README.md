@@ -1,6 +1,6 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-# Laravel Library Management System
+# Laravel Sistem Informasi Manajemen Perpustakaan
 
 ## Quick Start 
 clone the repo
@@ -58,7 +58,3 @@ password: password
 <img src="Screenshots/lms (11).png" width="100%" /><br /> <br />
 <img src="Screenshots/lms (12).png" width="100%" /><br /> <br />
 <img src="Screenshots/lms (13).png" width="100%" /><br /> <br /
-
-```
-Make sure to leave a start ✨✨
-```
