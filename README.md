@@ -27,7 +27,7 @@ username: ahmad@gmail.com
 password: ahmad123
 ```
 
-## ScreenShots
+## ScreenShots Admin
 <img src="Screenshots/lms (1).png" width="100%" /><br /> <br />
 <img src="Screenshots/lms (2).png" width="100%" /><br /> <br />
 <img src="Screenshots/lms (3).png" width="100%" /><br /> <br />
@@ -41,3 +41,12 @@ password: ahmad123
 <img src="Screenshots/lms (11).png" width="100%" /><br /> <br />
 <img src="Screenshots/lms (12).png" width="100%" /><br /> <br />
 <img src="Screenshots/lms (13).png" width="100%" /><br /> <br />
+
+## ScreenShots Guest
+<img src="Screenshots/lms (17).png" width="100%" /><br /> <br />
+<img src="Screenshots/lms (18).png" width="100%" /><br /> <br />
+
+## Screenshots Siswa
+<img src="Screenshots/lms (14).png" width="100%" /><br /> <br />
+<img src="Screenshots/lms (15).png" width="100%" /><br /> <br />
+<img src="Screenshots/lms (16).png" width="100%" /><br /> <br />
