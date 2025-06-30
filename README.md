@@ -13,12 +13,18 @@ cd Laravel-libraray-management-system
 ```
 start server
 ```
+npn run dev
 php artisan serve
 ```
-credentails
+Admin credentails
 ```
-username: kiki
+username: kiki@gmail.com
 password: kiki123
+```
+Siswa credentails
+```
+username: ahmad@gmail.com
+password: ahmad123
 ```
 
 ## ScreenShots
