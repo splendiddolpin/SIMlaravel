@@ -57,9 +57,7 @@ password: password
 <img src="Screenshots/lms (10).png" width="100%" /><br /> <br />
 <img src="Screenshots/lms (11).png" width="100%" /><br /> <br />
 <img src="Screenshots/lms (12).png" width="100%" /><br /> <br />
-<img src="Screenshots/lms (13).png" width="100%" /><br /> <br />
-
-Watch demo at tauseedzaman youtube channel https://youtube.com/channel/UCnJYN9jTfEnumvJUw4rhh9A
+<img src="Screenshots/lms (13).png" width="100%" /><br /> <br /
 
 ```
 Make sure to leave a start ✨✨
